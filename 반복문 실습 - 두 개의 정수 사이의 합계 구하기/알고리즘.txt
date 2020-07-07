@@ -1,0 +1,22 @@
+﻿input := 정수를 입력 받는다.
+조건(정수로 변환(input,out num1)이 실패)
+    오류를 출력 후 알고리즘 종료
+input := 정수를 입력 받는다.
+조건(정수로 변환(input,out num2)이 실패)
+    오류를 출력 후 알고리즘 종료
+조건(num1<num2)
+    두 수를 교환(ref num1, ref num2)
+sum:=두 정수 사이의 합계 구하기(num2,num1)
+
+
+두 수를 교환(ref num1, ref num2)
+    temp:= num1
+    num1:= num2
+    num2:= temp
+
+
+두 정수 사이의 합계 구하기(start, end):합계
+    sum:=0
+    반복(value:= start->end)
+        sum:= sum+value
+    sum 반환   
