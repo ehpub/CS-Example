@@ -9,3 +9,6 @@
 {인덱스[,배치][:포멧문자열]}
 
 이번 강의는 인덱스와 배치, 포멧 문자열을 지정하여 문자열을 출력하는 실습입니다.
+유튜브: https://youtu.be/ewsh61FVZgo
+언제나 휴일: http://ehpub.co.kr/001-c-%eb%ac%b8%ec%9e%90%ec%97%b4-%ec%b6%9c%eb%a0%a5-%ed%8f%ac%eb%a9%a7/
+
