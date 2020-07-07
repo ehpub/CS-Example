@@ -1,5 +1,4 @@
 실습으로 다지는 C#
-첫 번째 강의: Console.WriteLine
 유튜브 https://youtu.be/ewsh61FVZgo
 언제나 휴일 http://ehpub.co.kr/001-c-%eb%ac%b8%ec%9e%90%ec%97%b4-%ec%b6%9c%eb%a0%a5-%ed%8f%ac%eb%a9%a7/
 프로그래밍 언어를 배울 때 출력문은 언제나 제일 먼저 만납니다.
